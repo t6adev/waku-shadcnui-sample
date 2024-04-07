@@ -8,8 +8,8 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
   AlertDialogTrigger,
-} from '../@/components/ui/alert-dialog.js';
-import { Button } from '../@/components/ui/button.js';
+} from '@/components/ui/alert-dialog.js';
+import { Button } from '@/components/ui/button.js';
 
 export function AlertDialogDemo() {
   return (
